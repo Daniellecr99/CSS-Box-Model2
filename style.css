@@ -18,6 +18,8 @@ p {
 }
 * {
     text-align: center;
-    background-size: cover;
+}
+body {
     background-image: url(/images/iStock-628661454.jpg);
+    background-size: cover;
 }
