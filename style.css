@@ -19,3 +19,5 @@ p {
 * {
     text-align: center;
 }
+body {background-image: url(/images/iStock.jpg);
+background-size: cover;}
