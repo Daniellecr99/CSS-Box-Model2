@@ -1,0 +1,23 @@
+
+.seven-pounds {
+    border: solid 5px rgb(153, 0, 255);
+}
+.Darko {
+    border: solid 5px #9900ff;
+}
+
+h1 {
+    font-family: Georgia;
+    color: slategrey;
+}
+p {
+    border: solid 5px rgb(78, 73, 73);
+    width: 300px;
+    margin: 0 auto;
+
+}
+* {
+    text-align: center;
+    background-size: cover;
+    background-image: url(/images/iStock-628661454.jpg);
+}
